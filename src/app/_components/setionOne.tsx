@@ -4,7 +4,7 @@ import React from 'react'
 function SectionOne() {
     return (
         <div className="bg-black h-min-screen">
-            <div className='grid grid-cols-2 gap-8 p-4 px-8 '>
+            <div className='grid md:grid-cols-2 gap-8 p-4 px-8 '>
 
                 <div className="flex items-center w-full ">
                     <div className="max-w-full text-white">
